@@ -1,2 +1,16 @@
 - Файл README
 В master описывается добавление nice buttons on his jacket (buttons branch)
+
+12 Коммитов:
+- Home task commit final
+- Home task commit
+- Merge branch 'master' into boots_buttons
+- Merge branch 'hat'
+- Merge branch 'boots' into boots_buttons
+- Merge remote-tracking branch 'origin/buttons' into boots
+- fix readme
+- dots
+- README added
+- boots
+- heat added
+- init
